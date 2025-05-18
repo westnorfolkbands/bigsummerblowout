@@ -3,13 +3,13 @@ body {
   margin: 0;
   font-family: sans-serif;
   line-height: 1.6;
-  background: #f9f9f9;
-  color: #333;
+  background: #FFFFFF;
+  color: #FFFFFF;
 }
 
 /* Header */
 header {
-  background-color: #333;
+  background-color: #FFFFFF;
   background-image: url('images/bandlogo.jpg');
   background-repeat: no-repeat;         /* This stops tiling/repeating */
   background-position: center center;   /* Horizontal and vertical centering */
