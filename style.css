@@ -20,7 +20,7 @@ header {
   color: white;
   padding: 1rem;
   text-align: center;
-  min-height: 200px;                    /* Adjust as needed for your logo */
+  min-height: 300px;                    /* Adjust as needed for your logo */
 }
 
 header h1 {
