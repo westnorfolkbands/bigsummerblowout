@@ -9,7 +9,7 @@ body {
 
 /* Header */
 header {
-  background-color: #000;
+  background-color: #333;
   background-image: url('images/bandlogo.jpg');
   background-repeat: no-repeat;         /* This stops tiling/repeating */
   background-position: center center;   /* Horizontal and vertical centering */
@@ -28,13 +28,13 @@ header h1 {
 }
 
 nav {
-  background-color: #000;
+  background-color: #333;
   text-align: center;
   padding: 0.5rem 0;
 }
 
 nav a {
-  color: white;
+  color: #000;
   text-decoration: none;
   margin: 0 1rem;
   font-weight: bold;
@@ -83,7 +83,7 @@ footer {
 @media (max-width: 600px) {
   
   nav{
-    background-color: #000 /* Repeat here in case mobile styles override it */
+    background-color: #333 /* Repeat here in case mobile styles override it */
   }
   nav a {
     display: block;
