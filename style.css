@@ -83,7 +83,7 @@ footer {
 @media (max-width: 600px) {
   
   nav{
-    background-color: #333 /* Repeat here in case mobile styles override it */
+    background-color: #FFFFFF /* Repeat here in case mobile styles override it */
   }
   nav a {
     display: block;
